@@ -8,7 +8,6 @@ public class DemoArithematic {
 				System.out.print(j);
 			}
 			System.out.println();
-
 		}
 		
 }
