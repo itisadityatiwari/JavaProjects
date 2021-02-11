@@ -32,9 +32,9 @@ class Constructors
 
 public class CallConstructor {
 	public static void main(String[] args) {
-		Constructors obj1 =new Constructors();
-		Constructors obj2=new Constructors(5.5,7.5);
-		Constructors obj3=new Constructors('A');		
+		Constructors obj1 = new Constructors();
+		Constructors obj2 = new Constructors(5.5,7.5);
+		Constructors obj3 = new Constructors('A');		
 	}
 	
 	
