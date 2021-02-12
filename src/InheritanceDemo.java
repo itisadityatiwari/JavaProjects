@@ -1,5 +1,7 @@
 /* In java we have multi-level inheritance and single level inheritance
  * We don't have multiple inheritance
+ * IS-A and HAS-A relationship
+ * AdvCalculator IS-A child, Inheritance Demo HAS-A method of class VeryAdvCalculator
  */
 
 class Calculator
